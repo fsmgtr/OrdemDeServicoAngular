@@ -1,0 +1,13 @@
+
+
+para criar o pj 
+ ng new ordem-servico
+
+ subir pj
+ ng serve
+
+ add o material
+ ng add @angular/material
+
+ Antes de utilizar os compomnets lá do angular material tem que fazer os importes
+ para o app.modules.ts EX:import {MatToolbarModule} from '@angular/material/toolbar';

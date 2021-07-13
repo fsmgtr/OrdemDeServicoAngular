@@ -1,0 +1,15 @@
+.header {
+    height: 9%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    border: 1px solid rgb(58, 57, 57);
+    margin: 0;
+    font-size: 1rem;
+    border-radius: 1px soliid rgb(58, 57, 57);
+    padding: 0% 8%;
+    border-radius: 20px;
+}
